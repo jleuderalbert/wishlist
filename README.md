@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# Janeks Wunschzettel
 
-You can use the [editor on GitHub](https://github.com/jleuderalbert/wishlist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Allgemeines
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Geld kann man immer gebrauchen
+- Whiskey ist immer gut (am liebsten Scotch und eher fruchtigere, teste aber generell auch gerne neues, nur bitte kein Bourbon)
+- Marmor-Teigrolle
+- Zeit-Online-Plus-Jahresabbonnement
+- 3x Kallax Einsatz mit 2 Schubladen (die weißen ohne Türknauf)
+- Herren Smartwatch "The Carlyle Hr" 5. Generation Silikon Schwarz/Leder Braun
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## "Spielzeug"
 
-- Bulleted
-- List
+- Prusa Mini 3D Drucker
+- Microcontroller Starter Kit (z.B. Arduino Uno oder die günstigere Kopie Elego Uno)
+- Raspberry Pi 4
+- Nintendo Switch
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Schallplatten
 
-[Link](url) and ![Image](src)
-```
+- Red Hot Chilli Peppers:
+  - By The Way
+  - The Getaway
+  - I'm With You
+  
+- Apocalyptica
+  - Reflections
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Volbeat
+  - Guitar Gangsters & Cadillac Blood
+  
+- Feine Sahne Fischfilet
+  - Sturm & Dreck
+  - Bleiben oder gehen
+  
+- Architects
+  - Holy Hell
+  
+- Heaven Shall Burn
+  - Veto
+  - Iconoclast (I)
+  
+- Linkin Park
+  - Minutes To Midnight
 
-### Jekyll Themes
+- System Of A Down
+  - Toxicity
+  - Mezmerize
+  
+- Enter Shikari
+  - The Spark
+  
+- Trivium
+  - The Sin And The Sentence
+  - Vengeance Falls
+  
+- Emil Bulls
+  - Kill your Demons
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jleuderalbert/wishlist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Werkzeug & Ähnliches
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Sortimentkasten Nägel
+- Kleine Schraubenzieher / Präzisionsschraubenzieher
+- Wasserrohrzange oder andere Art von größenverstellbarer Zange
+- Eurobehälter von "ab in die Box" Größe 300x400
+
+
+## Das ist schon in Erfüllung gegangen (ein großen Dank an die vielen lieben Menschen)
+
+- <del>Hand-Espresso-Presse</del>
+- <del>Doppelofenhandschuh</del>
+- <del>4x Kallax-Türeinsatz (weiß)</del>
+- <del>Why Nations Fail</del>
+- <del>Rise Against - Career 8-Disc Box Collection</del>
+- <del>Volbeat - Rock The Rebel/Metal The Devil</del>
+- <del>Parkway Drive - Ire </del>
+- <del>Linkin Park - Hybrid Theorie</del>
+- <del>Hammer</del>
+- <del>Schraubenzieher</del>
+- <del>Flachzange</del>
+- <del>Wasserwaage</del>
+- <del>Sortimentkasten Schrauben & Dübel</del>
