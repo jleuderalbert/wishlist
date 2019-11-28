@@ -71,7 +71,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Eurobehälter von "ab in die Box" Größe 300x400
 
 
-## Das ist schon in Erfüllung gegangen (ein großen Dank an die vielen lieben Menschen)
+## Das ist schon in Erfüllung gegangen
+### (ein großen Dank an die vielen lieben Menschen)
 
 - <del>Hand-Espresso-Presse</del>
 - <del>Doppelofenhandschuh</del>
