@@ -58,6 +58,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Trivium
   - The Sin And The Sentence
   - Vengeance Falls
+  - In Waves (gerne colored)
   
 - Emil Bulls
   - Kill your Demons
