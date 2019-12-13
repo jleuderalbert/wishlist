@@ -70,6 +70,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Kleine Schraubenzieher / Präzisionsschraubenzieher
 - Wasserrohrzange oder andere Art von größenverstellbarer Zange
 - Eurobehälter von "ab in die Box" Größe 300x400
+- Laser-Entfernungsmesser
 
 
 ## Das ist schon in Erfüllung gegangen
