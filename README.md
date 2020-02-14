@@ -7,7 +7,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 - Geld kann man immer gebrauchen
 - Whiskey ist immer gut (am liebsten Scotch und eher fruchtigere, teste aber generell auch gerne neues, nur bitte kein Bourbon)
-- Marmor-Teigrolle
 - Zeit-Online-Plus-Jahresabbonnement
 
 
@@ -20,6 +19,10 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 
 ## Schallplatten
+
+- Unleash The Archers:
+  - Apex
+  - Time Stands Still
 
 - Red Hot Chilli Peppers:
   - By The Way
@@ -66,6 +69,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
 
+- <del>Marmor-Teigrolle</del>
 - <del>Hand-Espresso-Presse</del>
 - <del>Doppelofenhandschuh</del>
 - <del>4x Kallax-Türeinsatz (weiß)</del>
