@@ -16,6 +16,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Microcontroller Starter Kit (z.B. Arduino Uno oder die günstigere Kopie Elego Uno)
 - Raspberry Pi 4
 - Nintendo Switch
+- Lego Harry Potter Schloss Hogwarts (71043)
 
 
 ## Schallplatten
