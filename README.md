@@ -60,6 +60,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Emil Bulls
   - Kill your Demons
 
+- Depeche Mode
+  - Violator
 
 ## Werkzeug & Ähnliches
 
