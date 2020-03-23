@@ -8,6 +8,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Geld kann man immer gebrauchen
 - Whiskey ist immer gut (am liebsten Scotch und eher fruchtigere, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
+- Bürostuhl
 
 
 ## "Spielzeug"
