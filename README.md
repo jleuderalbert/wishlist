@@ -8,12 +8,42 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Geld kann man immer gebrauchen
 - Whiskey ist immer gut (am liebsten Scotch und eher fruchtigere, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
-- Bürostuhl
+- Autonomous MyoChair (Bürostuhl)
 
+## Küche
+- Bosch MUZ5NV1 Pastavorsatz Lasagne
+- Bosch MUZ5BS1 Lifestyle Set BakingSensation (Rührschüssel Plastik, Fleischwolf, Spritzgebäckvorsatz)
+- Bosch MUZ5ZP1 Zitruspresse
+- Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
+- Küchen-/Grill-Zange mit Silikongreifern und Sicherung
+- Weck Sturzgläser 0,5L
+- Induktions- und Ofengeeignete Schmorrpfanne (z.B. WMF SELECTit! Servierschmorpfanne mit Deckel, Ø 28 cm)
+- Pizzaschieber (ruhig groß)
+- Backstahl
+- (Dauer-)Backmatten
+- Ikea 365+ Behälter, rechteckig, Glas, verschiedene Größen + Deckel
+- Ikea Lämplig Schneidebrett Bambus (groß)
+- Graef Kaffeemühle CM 800
+
+## Möbel
+- Glasplatte 608mm x 543mm Sichtkanten bzw. geschliffen
+- Kallax 4x2
+- Kallax 1x4
+- Kallax 1x3
+- Kallax Einsatz Lochplatte
+- Kallax Einsatz 4 Böden
+- Kallax Einsatz Tür (Stil Aussparung) 2x
+- Kallax Einsatz 2 Schubladen (Stil Aussparung) 2x
+- Dröna Dunkelgrau 4x
+- Besta Deckplatte Eichenfunier 180x42
+
+## Bücher
+- Just a French Guy Cooking von Alexis Gabriel Ainouz (in Englisch)
+- Practical Electronics for Inventors von Paul Scherz und Simon Monk (in Englisch)
 
 ## "Spielzeug"
 
-- Prusa Mini 3D Drucker
+- Creality Ender 5
 - Microcontroller Starter Kit (z.B. Arduino Uno oder die günstigere Kopie Elego Uno)
 - Raspberry Pi 4
 - Nintendo Switch
@@ -66,9 +96,15 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Werkzeug & Ähnliches
 
-- Wasserrohrzange oder andere Art von größenverstellbarer Zange
-- Eurobehälter von "ab in die Box" Größe 300x400
-
+- Rohrzange oder andere Art von größenverstellbarer Zange
+- Zwingen
+- Satz Winkelschlüssel
+- Bosch GST 12v (am liebsten in L-Boxx)
+- Bosch i-Boxx Shelf
+  - Bosch i-Boxx 53
+    - Bosch i-Boxx 53 Insetboxen
+- Bosch L-Boxx 102
+  - Bosch L-Boxx Einlage für GSR 12v
 
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
