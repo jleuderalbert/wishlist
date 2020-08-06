@@ -52,45 +52,34 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Schallplatten
 
-- Unleash The Archers:
+- Unleash The Archers
   - Apex
   - Time Stands Still
-
-- Red Hot Chilli Peppers:
+- Red Hot Chilli Peppers
   - By The Way
   - The Getaway
   - I'm With You
-  
 - Apocalyptica
   - Reflections
-
 - Volbeat
   - Guitar Gangsters & Cadillac Blood
-  
 - Feine Sahne Fischfilet
   - Scheitern und Verstehen
-  
 - Architects
   - Holy Hell
-  
 - Heaven Shall Burn
   - Veto
-
 - System Of A Down
   - Toxicity
   - Mezmerize
-  
 - Enter Shikari
   - The Spark
-  
 - Trivium
   - The Sin And The Sentence
   - Vengeance Falls
   - In Waves (gerne colored)
-  
 - Emil Bulls
   - Kill your Demons
-
 - Depeche Mode
   - Violator
 
