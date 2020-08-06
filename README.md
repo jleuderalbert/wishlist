@@ -89,6 +89,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Zwingen
 - Satz Winkelschlüssel
 - SainSmart TS80P Lötkolbern
+- Forsberg Braxa Arbeitshose
 - Bosch GST 12v (am liebsten in L-Boxx)
 - Bosch i-Boxx Shelf
   - Bosch i-Boxx 53
