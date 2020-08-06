@@ -88,6 +88,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Rohrzange oder andere Art von größenverstellbarer Zange
 - Zwingen
 - Satz Winkelschlüssel
+- SainSmart TS80P Lötkolbern
 - Bosch GST 12v (am liebsten in L-Boxx)
 - Bosch i-Boxx Shelf
   - Bosch i-Boxx 53
