@@ -43,7 +43,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## "Spielzeug"
 
-- Creality Ender 5
+- Prusa Mini 3d Printer
 - Microcontroller Starter Kit (z.B. Arduino Uno oder die günstigere Kopie Elego Uno)
 - Raspberry Pi 4
 - Nintendo Switch
