@@ -6,7 +6,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Allgemeines
 
 - Geld kann man immer gebrauchen
-- Whiskey ist immer gut (am liebsten Scotch und eher fruchtigere, teste aber generell auch gerne neues, nur bitte kein Bourbon)
+- Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
 - Autonomous MyoChair (Bürostuhl)
 
@@ -24,6 +24,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Ikea 365+ Behälter, rechteckig, Glas, verschiedene Größen + Deckel
 - Ikea Lämplig Schneidebrett Bambus (groß)
 - Graef Kaffeemühle CM 800
+- Trockentücher aus 100% Leinen
+- Nosing Gläser (Whisky Tulpen)
 
 ## Möbel
 - Glasplatte 608mm x 543mm Sichtkanten bzw. geschliffen
