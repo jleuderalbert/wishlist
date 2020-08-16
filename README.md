@@ -9,6 +9,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
 - Autonomous MyoChair (Bürostuhl)
+- Teufel Move BT
 
 ## Küche
 - Bosch MUZ5NV1 Pastavorsatz Lasagne
