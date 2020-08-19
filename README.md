@@ -8,7 +8,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Geld kann man immer gebrauchen
 - Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
-- Autonomous MyoChair (Bürostuhl)
+- Autonomous MyoChair Schwarz mit Stütze (Bürostuhl)
 - Teufel Move BT
 
 ## Küche
