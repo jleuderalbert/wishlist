@@ -24,7 +24,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - (Dauer-)Backmatten
 - Ikea 365+ Behälter, rechteckig, Glas, verschiedene Größen + Deckel
 - Ikea Lämplig Schneidebrett Bambus (groß)
-- Graef Kaffeemühle CM 800
 - Trockentücher aus 100% Leinen
 - Nosing Gläser (Whisky Tulpen)
 
@@ -41,7 +40,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Besta Deckplatte Eichenfunier 180x42
 
 ## Bücher
-- Just a French Guy Cooking von Alexis Gabriel Ainouz (in Englisch)
 - Practical Electronics for Inventors von Paul Scherz und Simon Monk (in Englisch)
 
 ## "Spielzeug"
@@ -73,18 +71,13 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Heaven Shall Burn
   - Veto
 - System Of A Down
-  - Toxicity
-  - Mezmerize
+  - Steal this Album
+  - Hypnotize
 - Enter Shikari
   - The Spark
 - Trivium
   - The Sin And The Sentence
   - Vengeance Falls
-  - In Waves (gerne colored)
-- Emil Bulls
-  - Kill your Demons
-- Depeche Mode
-  - Violator
 
 ## Werkzeug & Ähnliches
 
@@ -106,10 +99,12 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Marmor-Teigrolle</del>
 - <del>Hand-Espresso-Presse</del>
 - <del>Doppelofenhandschuh</del>
+- <del>Graef Kaffeemühle CM 800</del>
 - <del>4x Kallax-Türeinsatz (weiß)</del>
 - <del>Kallax Einsatz mit 2 Schubladen (die weißen ohne Türknauf)</del>
 - <del>Herren Smartwatch "The Carlyle Hr" 5. Generation Silikon Schwarz/Leder Braun</del>
 - <del>Why Nations Fail</del>
+- <del>Just a French Guy Cooking von Alexis Gabriel Ainouz (in Englisch)</del>
 - <del>Rise Against - Career 8-Disc Box Collection</del>
 - <del>Volbeat - Rock The Rebel/Metal The Devil</del>
 - <del>Parkway Drive - Ire </del>
@@ -118,6 +113,11 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Feine Sahne Fischfilet - Sturm & Dreck</del>
 - <del>Feine Sahne Fischfilet - Bleiben oder gehen</del>
 - <del>Heaven Shall Burn - Iconoclast</del>
+- <del>Trivium - In Waves (gerne colored)</del>
+- <del>Emil Bulls - Kill your Demons</del>
+- <del>Depeche Mode - Violator</del>
+- <del>System Of A Down - Toxicity</del>
+- <del>System Of A Down - Mezmerize</del>
 - <del>Hammer</del>
 - <del>Schraubenzieher</del>
 - <del>Flachzange</del>
