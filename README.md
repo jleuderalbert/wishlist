@@ -9,7 +9,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
 - Autonomous MyoChair Schwarz mit Stütze (Bürostuhl)
-- Teufel Move BT
 
 ## Küche
 - Bosch MUZ5NV1 Pastavorsatz Lasagne
@@ -18,7 +17,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
 - Küchen-/Grill-Zange mit Silikongreifern und Sicherung
 - Weck Sturzgläser 0,5L
-- Induktions- und Ofengeeignete Schmorrpfanne (z.B. WMF SELECTit! Servierschmorpfanne mit Deckel, Ø 28 cm)
 - Pizzaschieber (ruhig groß)
 - Backstahl
 - (Dauer-)Backmatten
@@ -64,8 +62,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Reflections
 - Volbeat
   - Guitar Gangsters & Cadillac Blood
-- Feine Sahne Fischfilet
-  - Scheitern und Verstehen
 - Architects
   - Holy Hell
 - Heaven Shall Burn
@@ -84,7 +80,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Rohrzange oder andere Art von größenverstellbarer Zange
 - Zwingen
 - Satz Winkelschlüssel
-- SainSmart TS80P Lötkolbern
 - Forsberg Braxa Arbeitshose
 - Bosch GST 12v (am liebsten in L-Boxx)
 - Bosch i-Boxx Shelf
@@ -100,9 +95,11 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Hand-Espresso-Presse</del>
 - <del>Doppelofenhandschuh</del>
 - <del>Graef Kaffeemühle CM 800</del>
+- <del>Induktions- und Ofengeeignete Schmorrpfanne (z.B. WMF SELECTit! Servierschmorpfanne mit Deckel, Ø 28 cm)</del>
 - <del>4x Kallax-Türeinsatz (weiß)</del>
 - <del>Kallax Einsatz mit 2 Schubladen (die weißen ohne Türknauf)</del>
 - <del>Herren Smartwatch "The Carlyle Hr" 5. Generation Silikon Schwarz/Leder Braun</del>
+- <del>Teufel Move BT</del>
 - <del>Why Nations Fail</del>
 - <del>Just a French Guy Cooking von Alexis Gabriel Ainouz (in Englisch)</del>
 - <del>Rise Against - Career 8-Disc Box Collection</del>
@@ -112,6 +109,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Linkin Park - Minutes To Midnight</del>
 - <del>Feine Sahne Fischfilet - Sturm & Dreck</del>
 - <del>Feine Sahne Fischfilet - Bleiben oder gehen</del>
+- <del>Feine Sahne Fischfilet - Scheitern und Verstehen</del>
 - <del>Heaven Shall Burn - Iconoclast</del>
 - <del>Trivium - In Waves (gerne colored)</del>
 - <del>Emil Bulls - Kill your Demons</del>
@@ -126,3 +124,4 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Laser-Entfernungsmesser</del>
 - <del>Sortimentkasten Nägel</del>
 - <del>Kleine Schraubenzieher / Präzisionsschraubenzieher</del>
+- <del>SainSmart TS80P Lötkolbern</del>
