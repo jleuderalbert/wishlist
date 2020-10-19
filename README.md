@@ -27,14 +27,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Möbel
 - Glasplatte 608mm x 543mm Sichtkanten bzw. geschliffen
-- Kallax 4x2
-- Kallax 1x4
-- Kallax 1x3
-- Kallax Einsatz Lochplatte
-- Kallax Einsatz 4 Böden
-- Kallax Einsatz Tür (Stil Aussparung) 2x
-- Kallax Einsatz 2 Schubladen (Stil Aussparung) 2x
-- Dröna Dunkelgrau 4x
 - Besta Deckplatte Eichenfunier 180x42
 
 ## Bücher
