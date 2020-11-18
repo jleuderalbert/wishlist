@@ -14,7 +14,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Bosch MUZ5BS1 Lifestyle Set BakingSensation (Rührschüssel Plastik, Fleischwolf, Spritzgebäckvorsatz)
 - Bosch MUZ5ZP1 Zitruspresse
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- Küchen-/Grill-Zange mit Silikongreifern und Sicherung
 - Weck Sturzgläser 0,5L
 - Pizzaschieber (ruhig groß)
 - Backstahl
