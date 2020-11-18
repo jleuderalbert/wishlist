@@ -8,10 +8,9 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Geld kann man immer gebrauchen
 - Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
-- Autonomous MyoChair Schwarz mit Stütze (Bürostuhl)
+- Bürostuhl (Netzbespannung, höhenverstellbar, Lordosenstütze)
 
 ## Küche
-- Bosch MUZ5NV1 Pastavorsatz Lasagne
 - Bosch MUZ5BS1 Lifestyle Set BakingSensation (Rührschüssel Plastik, Fleischwolf, Spritzgebäckvorsatz)
 - Bosch MUZ5ZP1 Zitruspresse
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
@@ -88,6 +87,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Doppelofenhandschuh</del>
 - <del>Graef Kaffeemühle CM 800</del>
 - <del>Induktions- und Ofengeeignete Schmorrpfanne (z.B. WMF SELECTit! Servierschmorpfanne mit Deckel, Ø 28 cm)</del>
+- <del>Bosch MUZ5NV1 Pastavorsatz Lasagne</del>
 - <del>4x Kallax-Türeinsatz (weiß)</del>
 - <del>Kallax Einsatz mit 2 Schubladen (die weißen ohne Türknauf)</del>
 - <del>Herren Smartwatch "The Carlyle Hr" 5. Generation Silikon Schwarz/Leder Braun</del>
