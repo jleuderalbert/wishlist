@@ -71,7 +71,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Zwingen
 - Satz Winkelschlüssel
 - Forsberg Braxa Arbeitshose
-- Bosch GST 12v (am liebsten in L-Boxx)
 - Bosch i-Boxx Shelf
   - Bosch i-Boxx 53
     - Bosch i-Boxx 53 Insetboxen
@@ -107,6 +106,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Depeche Mode - Violator</del>
 - <del>System Of A Down - Toxicity</del>
 - <del>System Of A Down - Mezmerize</del>
+- <del>Bosch GST 12v (am liebsten in L-Boxx)</del>
 - <del>Hammer</del>
 - <del>Schraubenzieher</del>
 - <del>Flachzange</del>
