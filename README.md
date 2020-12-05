@@ -8,10 +8,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Geld kann man immer gebrauchen
 - Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
 - Zeit-Online-Plus-Jahresabbonnement
-- Bürostuhl (Netzbespannung, höhenverstellbar, Lordosenstütze)
 
 ## Küche
-- Bosch MUZ5BS1 Lifestyle Set BakingSensation (Rührschüssel Plastik, Fleischwolf, Spritzgebäckvorsatz)
 - Bosch MUZ5ZP1 Zitruspresse
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
 - Weck Sturzgläser 0,5L
@@ -32,12 +30,12 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## "Spielzeug"
 
-- Prusa Mini 3d Printer
 - Microcontroller Starter Kit (z.B. Arduino Uno oder die günstigere Kopie Elego Uno)
 - Raspberry Pi 4
 - Nintendo Switch
 - Lego Harry Potter Schloss Hogwarts (71043)
-
+- Prusament PLA weiß/schwarz/grau
+- Prusament PETG weiß/schwarz/grau
 
 ## Schallplatten
 
@@ -70,12 +68,9 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Rohrzange oder andere Art von größenverstellbarer Zange
 - Zwingen
 - Satz Winkelschlüssel
-- Forsberg Braxa Arbeitshose
-- Bosch i-Boxx Shelf
-  - Bosch i-Boxx 53
-    - Bosch i-Boxx 53 Insetboxen
-- Bosch L-Boxx 102
-  - Bosch L-Boxx Einlage für GSR 12v
+- Forsberg Braxa Arbeitshose (lang, Größe 48, anthrazit/schwarz)
+- Heißklebepistole (am liebsten Kabellos)
+- Sortimentkasten Innensechskant ca im Bereich M2 - M5 mit Muttern und Senk- und/oder Zylinderkopf
 
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
