@@ -12,30 +12,20 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Küche
 - Bosch MUZ5ZP1 Zitruspresse
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- Weck Sturzgläser 0,5L
-- Pizzaschieber (ruhig groß)
-- Backstahl
-- (Dauer-)Backmatten
-- Ikea 365+ Behälter, rechteckig, Glas, verschiedene Größen + Deckel
-- Ikea Lämplig Schneidebrett Bambus (groß)
-- Trockentücher aus 100% Leinen
-- Nosing Gläser (Whisky Tulpen)
+- Ikea 365+ Behälter, rechteckig, Glas, 1L + Bambus-Deckel
+- 1000ml Haushaltsglas "Quattro Stagioni"
 
 ## Möbel
 - Glasplatte 608mm x 543mm Sichtkanten bzw. geschliffen
-- Besta Deckplatte Eichenfunier 180x42
 
 ## Bücher
-- Practical Electronics for Inventors von Paul Scherz und Simon Monk (in Englisch)
+- Terry Pratchett - Discworld Collectors Library Edition (Any)
 
 ## "Spielzeug"
 
-- Microcontroller Starter Kit (z.B. Arduino Uno oder die günstigere Kopie Elego Uno)
-- Raspberry Pi 4
-- Nintendo Switch
+- Prusa Mini+ 3d Printer
+- Elegoo Mars 3 Resin Printer
 - Lego Harry Potter Schloss Hogwarts (71043)
-- Prusament PLA weiß/schwarz/grau
-- Prusament PETG weiß/schwarz/grau
 
 ## Schallplatten
 
@@ -46,12 +36,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - By The Way
   - The Getaway
   - I'm With You
-- Apocalyptica
-  - Reflections
 - Volbeat
   - Guitar Gangsters & Cadillac Blood
-- Architects
-  - Holy Hell
 - Heaven Shall Burn
   - Veto
 - System Of A Down
@@ -62,15 +48,21 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Trivium
   - The Sin And The Sentence
   - Vengeance Falls
+- Rise Against
+  - Long Forgotten Songs
 
 ## Werkzeug & Ähnliches
 
-- Rohrzange oder andere Art von größenverstellbarer Zange
-- Zwingen
-- Satz Winkelschlüssel
-- Forsberg Braxa Arbeitshose (lang, Größe 48, anthrazit/schwarz)
-- Heißklebepistole (am liebsten Kabellos)
-- Sortimentkasten Innensechskant ca im Bereich M2 - M5 mit Muttern und Senk- und/oder Zylinderkopf
+- Bosch GKT 18V-52 GC PROFESSIONAL Tauchkreissäge
+- Stanley Kleinteilemagazin 30 Schubladen (nur kleine Schubladen)
+
+## Bastelmaterialien
+
+- Sortimentkasten Innensechskant ca im Bereich M2 - M5 und Senk- und/oder Zylinderkopf (Edelstahl)
+- Prusament PLA weiß/schwarz/grau
+- Prusament PETG weiß/schwarz/grau
+- Helukabel 25531 Litze HELUFLON®-FEP-6Y 1 x 0.50 mm² Schwarz/Rot
+- Helukabel 25521 Litze HELUFLON®-FEP-6Y 1 x 0.25 mm² Schwarz
 
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
