@@ -27,6 +27,10 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Elegoo Mars 3 Resin Printer
 - Lego Harry Potter Schloss Hogwarts (71043)
 
+## Spiele
+
+- Truth or Drink (+ Expansions)
+
 ## Schallplatten
 
 - Unleash The Archers
