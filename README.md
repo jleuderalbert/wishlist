@@ -10,13 +10,9 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Zeit-Online-Plus-Jahresabbonnement
 
 ## Küche
-- Bosch MUZ5ZP1 Zitruspresse
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
 - Ikea 365+ Behälter, rechteckig, Glas, 1L + Bambus-Deckel
 - 1000ml Haushaltsglas "Quattro Stagioni"
-
-## Möbel
-- Glasplatte 608mm x 543mm Sichtkanten bzw. geschliffen
 
 ## Bücher
 - Terry Pratchett - Discworld Collectors Library Edition (Any)
@@ -57,6 +53,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Werkzeug & Ähnliches
 
+- Japansäge Dozuki (z.B. von Dictum)
+- Japansäge Ryoba (z.B. von Dictum)
 - Bosch GKT 18V-52 GC PROFESSIONAL Tauchkreissäge
 - Stanley Kleinteilemagazin 30 Schubladen (nur kleine Schubladen)
 
