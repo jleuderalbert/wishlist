@@ -11,7 +11,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Küche
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- Ikea 365+ Behälter, rechteckig, Glas, 1L + Bambus-Deckel
 - 1000ml Haushaltsglas "Quattro Stagioni"
 
 ## Bücher
@@ -33,16 +32,9 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Apex
   - Time Stands Still
 - Red Hot Chilli Peppers
-  - By The Way
-  - The Getaway
   - I'm With You
-- Volbeat
-  - Guitar Gangsters & Cadillac Blood
 - Heaven Shall Burn
   - Veto
-- System Of A Down
-  - Steal this Album
-  - Hypnotize
 - Enter Shikari
   - The Spark
 - Trivium
@@ -55,8 +47,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 - Japansäge Dozuki (z.B. von Dictum)
 - Japansäge Ryoba (z.B. von Dictum)
-- Bosch GKT 18V-52 GC PROFESSIONAL Tauchkreissäge
-- Stanley Kleinteilemagazin 30 Schubladen (nur kleine Schubladen)
 
 ## Bastelmaterialien
 
@@ -105,3 +95,11 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - <del>Sortimentkasten Nägel</del>
 - <del>Kleine Schraubenzieher / Präzisionsschraubenzieher</del>
 - <del>SainSmart TS80P Lötkolbern</del>
+- <del>Ikea 365+ Behälter, rechteckig, Glas, 1L + Bambus-Deckel</del>
+- <del>Red Hot Chilli Peppers - By The Way</del>
+- <del>Red Hot Chilli Peppers - The Getaway</del>
+- <del>System Of A Down - Steal this Album</del>
+- <del>System Of A Down - Hypnotize</del>
+- <del>Volbeat - Guitar Gangsters & Cadillac Blood</del>
+- <del>Bosch GKT 18V-52 GC PROFESSIONAL Tauchkreissäge</del>
+- <del>Stanley Kleinteilemagazin 30 Schubladen (nur kleine Schubladen)</del>
