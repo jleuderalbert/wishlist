@@ -12,6 +12,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Küche
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
 - 1000ml Haushaltsglas "Quattro Stagioni"
+- Elektrische Gewürzmühle
+- (Multifunktionaler) Reiskocher (z.B. digitaler Reiskocher von Reishunger)
 
 ## Bücher
 - Terry Pratchett - Discworld Collectors Library Edition (Any)
@@ -47,6 +49,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 - Japansäge Dozuki (z.B. von Dictum)
 - Japansäge Ryoba (z.B. von Dictum)
+- Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
 
 ## Bastelmaterialien
 
