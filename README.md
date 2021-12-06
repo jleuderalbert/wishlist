@@ -14,6 +14,12 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - 1000ml Haushaltsglas "Quattro Stagioni"
 - Elektrische Gewürzmühle
 - (Multifunktionaler) Reiskocher (z.B. digitaler Reiskocher von Reishunger)
+- Reishunger Reis Waschschüssel
+
+## Wohnung & Möbel
+
+- Homematic IP Fensterkontakt
+- Homematic IP Wandthermostat
 
 ## Bücher
 - Terry Pratchett - Discworld Collectors Library Edition (Any)
