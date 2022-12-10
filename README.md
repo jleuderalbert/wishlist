@@ -6,33 +6,23 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Allgemeines
 
 - Geld kann man immer gebrauchen
-- Whisky ist immer gut (am liebsten Scotch, teste aber generell auch gerne neues, nur bitte kein Bourbon)
-- Zeit-Online-Plus-Jahresabbonnement
+- Gutschein für Carl Herletzius (spare auf ein richtig gutes neues Küchenmesser)
+- Gutschein für IKEA kann man auch immer gebrauchen
 
 ## Küche
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- 1000ml Haushaltsglas "Quattro Stagioni"
-- Elektrische Gewürzmühle
-- (Multifunktionaler) Reiskocher (z.B. digitaler Reiskocher von Reishunger)
-- Reishunger Reis Waschschüssel
+- Pizzamesser [Beispiel](https://www.stadlermade.com/products/pizza-knife/)
+- Espresso-Mühle DF-64/G-Iota
+- Airscape Kaffeedose
+- IKEA Knagglig klein
 
-## Wohnung & Möbel
-
-- Homematic IP Fensterkontakt
-- Homematic IP Wandthermostat
+## Möbel
+- Ikea Idasen - Nur Gestell
 
 ## Bücher
-- Terry Pratchett - Discworld Collectors Library Edition (Any)
-
-## "Spielzeug"
-
-- Prusa Mini+ 3d Printer
-- Elegoo Mars 3 Resin Printer
-- Lego Harry Potter Schloss Hogwarts (71043)
-
-## Spiele
-
-- Truth or Drink (+ Expansions)
+- Terry Pratchett - Discworld Collectors Library [Gibt's nur hier](https://www.discworldemporium.com/product-category/books/the-discworld-collector-s-library/)
+  - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
+- Dear Future Historians
 
 ## Schallplatten
 
@@ -44,7 +34,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Heaven Shall Burn
   - Veto
 - Enter Shikari
-  - The Spark
+  - Nothing Is True & Everything Is Possible
 - Trivium
   - The Sin And The Sentence
   - Vengeance Falls
@@ -54,7 +44,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Werkzeug & Ähnliches
 
 - Japansäge Dozuki (z.B. von Dictum)
-- Japansäge Ryoba (z.B. von Dictum)
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
 
 ## Bastelmaterialien
