@@ -24,6 +24,14 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
 - Dear Future Historians
 
+## Nintendo Switch-Spiele
+- The Witcher 3 - Complete Edition
+- Overcooked 2
+- It Takes Two
+- Lego Star Wars - Die Skywalker Saga
+- Hollow Knight
+- Assassin's Creed - Ezio Collection 
+
 ## Schallplatten
 
 - Unleash The Archers
@@ -45,14 +53,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 - Japansäge Dozuki (z.B. von Dictum)
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
-
-## Bastelmaterialien
-
-- Sortimentkasten Innensechskant ca im Bereich M2 - M5 und Senk- und/oder Zylinderkopf (Edelstahl)
-- Prusament PLA weiß/schwarz/grau
-- Prusament PETG weiß/schwarz/grau
-- Helukabel 25531 Litze HELUFLON®-FEP-6Y 1 x 0.50 mm² Schwarz/Rot
-- Helukabel 25521 Litze HELUFLON®-FEP-6Y 1 x 0.25 mm² Schwarz
 
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
