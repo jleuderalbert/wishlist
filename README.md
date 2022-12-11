@@ -6,7 +6,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Allgemeines
 
 - Geld kann man immer gebrauchen
-- Gutschein für Carl Herletzius (spare auf ein richtig gutes neues Küchenmesser)
+- Gutschein für Carl Herlitzius (spare auf ein richtig gutes neues Küchenmesser)
 - Gutschein für IKEA kann man auch immer gebrauchen
 
 ## Küche
