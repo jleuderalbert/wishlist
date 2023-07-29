@@ -6,15 +6,13 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Allgemeines
 
 - Geld kann man immer gebrauchen
-- Gutschein für Carl Herlitzius (spare auf ein richtig gutes neues Küchenmesser)
+- Gutschein für Dictum
 - Gutschein für IKEA kann man auch immer gebrauchen
 
 ## Küche
 - Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- Pizzamesser [Beispiel](https://www.stadlermade.com/products/pizza-knife/)
-- Espresso-Mühle DF-64/G-Iota
-- Airscape Kaffeedose
-- IKEA Knagglig klein
+- Airscape Kaffeedose Edelstahl, Mattschwarz
+- Microplane 4-Kant-Reibe
 
 ## Möbel
 - Ikea Idasen - Nur Gestell
@@ -22,15 +20,12 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Bücher
 - Terry Pratchett - Discworld Collectors Library [Gibt's nur hier](https://www.discworldemporium.com/product-category/books/the-discworld-collector-s-library/)
   - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
-- Dear Future Historians
-
-## Nintendo Switch-Spiele
-- The Witcher 3 - Complete Edition
-- Overcooked 2
-- It Takes Two
-- Lego Star Wars - Die Skywalker Saga
-- Hollow Knight
-- Assassin's Creed - Ezio Collection 
+- Enter Shikari
+  - Dear Future Historians
+  - A Teatise on Possibility
+  - Standing Like Statues
+- Salz Fett Säure Hitze
+- The Complete Japanese Joinery
 
 ## Schallplatten
 
@@ -39,19 +34,40 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Time Stands Still
 - Red Hot Chilli Peppers
   - I'm With You
+  - By the Way
+  - Californication
 - Heaven Shall Burn
   - Veto
 - Enter Shikari
-  - Nothing Is True & Everything Is Possible
+  - The Mindsweep
+  - A Flash Flood of Colour
 - Trivium
   - The Sin And The Sentence
   - Vengeance Falls
 - Rise Against
   - Long Forgotten Songs
+- Linin Park
+  - Meteora
 
 ## Werkzeug & Ähnliches
 
-- Japansäge Dozuki (z.B. von Dictum)
+- Veritas Deluxe Schärfsystem II, 5-teiliges Set (zu Kaufen z.B. bei [Dictum](https://www.dictum.com/de/schleiffuehrungen-ehd/veritas-deluxe-schaerfsystem-ii-5-teiliges-set-703845?number=703845))
+- Japansäge Dozuki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-dozuki-me-240-quer-712790?number=712790))
+- Japansäge Kataba (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-kataba-250-laengs-712817?number=712817))
+- Japansäge Azebiki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/azebiki-saege-90-712247?number=712247))
+- Japanische Stemmeisen Oire Nomi Kashi in den Breiten 12mm, 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323)
+- Satz gute Holzspiralbohrer (z.B. [Fisch](https://www.dictum.com/de/holzspiralbohrer-bakc/fisch-holzspiralbohrer-satz-eco-19-teilig-717818?number=717818))
+- Westliche Holzhobel gerne auch alte, gebrauchte
+  - Putzhobel
+  - Schrubbhobel
+  - Raubank
+- Metallerner Schlichthobel Größe Nr 4 (Dictum, Veritas, Stanley, ...)
+- Einhandzwingen von Piher
+- Korpuszwingen von Piher
+- Shapton Whetstone 1500, 5000, 8000
+
+- Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
+
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
 
 ## Das ist schon in Erfüllung gegangen
