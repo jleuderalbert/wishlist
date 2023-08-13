@@ -61,7 +61,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Putzhobel
   - Schrubbhobel
   - Raubank
-- Metallerner Schlichthobel Größe Nr 4 (Dictum, Veritas, Stanley, ...)
+- Metallerner Schlichthobel Größe Nr 4 (Dictum, Veritas, Lie Nielsen, ...)
 - Einhandzwingen von Piher
 - Korpuszwingen von Piher
 - Shapton Whetstone 1500, 5000, 8000
