@@ -6,36 +6,38 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Allgemeines
 
 - Geld kann man immer gebrauchen
-- Gutschein für Dictum
-- Gutschein für IKEA kann man auch immer gebrauchen
+- Gutscheine für Dictum, Spielkultur oder IKEA kann ich auch immer gebrauchen
+- Ich freue mich immer über interessanten Kaffee (Ganze Bohne, eigentlich "Espresso-Röstungen" aber die Unterscheidung wird mittlerweile hinterfragt und ich würde auch gerne mal eine hellere Röstung probieren ... generell auch lieber heller als dunkler)
 
 ## Küche
-- Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- Airscape Kaffeedose Edelstahl, Mattschwarz
-- Microplane 4-Kant-Reibe
 
-## Möbel
-- Ikea Idasen - Nur Gestell
+- Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
+- Schneidebrett aus Hinoki oder Kiri (Kiri = Paulownia), mind. 46cm breit & 36cm tief
+- Staub Cocotte, rund &#x2300; 26cm, schwarz
+- Demeyere Edelstahl Bratpfanne Multiline/Proline 7, &#x2300; 24cm & &#x2300; 32cm (Sauteuse und Cocotte > 32cm Pfanne)
+- Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 28 cm
+- Hoffman Bratpfanne &#x2300; 20cm, beschichtet, ohne Deckel
 
 ## Bücher
-- Terry Pratchett - Discworld Collectors Library [Gibt's nur hier](https://www.discworldemporium.com/product-category/books/the-discworld-collector-s-library/)
+
+- Kochbuch: Salz Fett Säure Hitze
+- Terry Pratchett - Discworld Collectors Library ([Gibt's nur hier](https://www.discworldemporium.com/product-category/books/the-discworld-collector-s-library/) - UK Import)
   - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
 - Enter Shikari
   - Dear Future Historians
   - A Teatise on Possibility
   - Standing Like Statues
-- Salz Fett Säure Hitze
 - The Complete Japanese Joinery
 
 ## Schallplatten
 
-- Unleash The Archers
-  - Apex
-  - Time Stands Still
+- Unleash The Archers (Napalm Records Store)
+  - Apex - 5th Anniversary Earbook
+  - Abyss - Violette Doppelvinyl
+  - Time Stands Still - Orange Doppelvinyl
 - Red Hot Chilli Peppers
   - I'm With You
   - By the Way
-  - Californication
 - Heaven Shall Burn
   - Veto
 - Enter Shikari
@@ -46,8 +48,11 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Vengeance Falls
 - Rise Against
   - Long Forgotten Songs
-- Linin Park
-  - Meteora
+  - Nowhere Generation II
+ 
+## Technikkram oder so
+
+- BluRay-Player oder (internes) -Laufwerk (gerne 4k UHD fähig)
 
 ## Werkzeug & Ähnliches
 
@@ -69,6 +74,10 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
 
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
+
+## Sonstiges
+
+- lange (Sport-)Unterhosen (für unter der kurzen Hose)
 
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
