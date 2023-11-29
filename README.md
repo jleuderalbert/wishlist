@@ -8,6 +8,9 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Geld kann man immer gebrauchen
 - Gutscheine für Dictum, Spielkultur oder IKEA kann ich auch immer gebrauchen
 - Ich freue mich immer über interessanten Kaffee (Ganze Bohne, eigentlich "Espresso-Röstungen" aber die Unterscheidung wird mittlerweile hinterfragt und ich würde auch gerne mal eine hellere Röstung probieren ... generell auch lieber heller als dunkler)
+  
+- Gutschein für Terracamp (Ich brauche neue Boulder/Kletterschuhe)
+- lange (Sport-)Unterhosen (für unter der kurzen Hose)
 
 ## Küche
 
@@ -74,10 +77,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
 
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
-
-## Sonstiges
-
-- lange (Sport-)Unterhosen (für unter der kurzen Hose)
 
 ## Das ist schon in Erfüllung gegangen
 ### (ein großen Dank an die vielen lieben Menschen)
