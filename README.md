@@ -53,6 +53,9 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Werkzeug & Ähnliches
 
+- Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
+
+- Hobellade von [Bau Woodworks](https://bau-woodworks.com/produkt/multifunktions-hobellade-mfh/)
 - Japansäge Kataba (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-kataba-250-laengs-712817?number=712817))
 - Japansäge Azebiki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/azebiki-saege-90-712247?number=712247))
 - Japanische Stemmeisen Oire Nomi Kashi in den Breiten 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323)
@@ -64,8 +67,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Einhandzwingen von Piher
 - Korpuszwingen von Piher
 - Shapton Whetstone 1500, 5000, 8000
-
-- Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
 
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
 
