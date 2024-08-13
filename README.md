@@ -14,8 +14,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Küche
 
 - Staub Cocotte, rund &#x2300; 26cm, schwarz
-- Demeyere Edelstahl Bratpfanne Multiline 7, &#x2300; 24cm
-- Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 22 cm
+- Demeyere Edelstahl Bratpfanne Multiline 7 / Industry 5, &#x2300; 24cm
+- Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 22 oder 24 cm
 
 ## Bücher
 
@@ -35,7 +35,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Time Stands Still - Orange Doppelvinyl
 - Red Hot Chilli Peppers
   - I'm With You
-  - By the Way
 - Heaven Shall Burn
   - Veto
 - Enter Shikari
