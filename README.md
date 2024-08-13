@@ -9,21 +9,16 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Gutscheine für Dictum, Spielkultur oder IKEA kann ich auch immer gebrauchen
 - Ich freue mich immer über interessanten Kaffee (Ganze Bohne, eigentlich "Espresso-Röstungen" aber die Unterscheidung wird mittlerweile hinterfragt und ich würde auch gerne mal eine hellere Röstung probieren ... generell auch lieber heller als dunkler)
   
-- Gutschein für Terracamp (Ich brauche neue Boulder/Kletterschuhe)
 - lange (Sport-)Unterhosen (für unter der kurzen Hose)
 
 ## Küche
 
-- Bosch MUZ45PS1, MUZ45AG1 Schneidescheibe
-- Schneidebrett aus Hinoki oder Kiri (Kiri = Paulownia), mind. 46cm breit & 36cm tief
 - Staub Cocotte, rund &#x2300; 26cm, schwarz
-- Demeyere Edelstahl Bratpfanne Multiline/Proline 7, &#x2300; 24cm & &#x2300; 32cm (Sauteuse und Cocotte > 32cm Pfanne)
-- Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 28 cm
-- Hoffman Bratpfanne &#x2300; 20cm, beschichtet, ohne Deckel
+- Demeyere Edelstahl Bratpfanne Multiline 7, &#x2300; 24cm
+- Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 22 cm
 
 ## Bücher
 
-- Kochbuch: Salz Fett Säure Hitze
 - Terry Pratchett - Discworld Collectors Library ([Gibt's nur hier](https://www.discworldemporium.com/product-category/books/the-discworld-collector-s-library/) - UK Import)
   - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
 - Enter Shikari
@@ -59,17 +54,14 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Werkzeug & Ähnliches
 
-- Veritas Deluxe Schärfsystem II, 5-teiliges Set (zu Kaufen z.B. bei [Dictum](https://www.dictum.com/de/schleiffuehrungen-ehd/veritas-deluxe-schaerfsystem-ii-5-teiliges-set-703845?number=703845))
-- Japansäge Dozuki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-dozuki-me-240-quer-712790?number=712790))
 - Japansäge Kataba (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-kataba-250-laengs-712817?number=712817))
 - Japansäge Azebiki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/azebiki-saege-90-712247?number=712247))
-- Japanische Stemmeisen Oire Nomi Kashi in den Breiten 12mm, 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323)
+- Japanische Stemmeisen Oire Nomi Kashi in den Breiten 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323)
 - Satz gute Holzspiralbohrer (z.B. [Fisch](https://www.dictum.com/de/holzspiralbohrer-bakc/fisch-holzspiralbohrer-satz-eco-19-teilig-717818?number=717818))
 - Westliche Holzhobel gerne auch alte, gebrauchte
   - Putzhobel
   - Schrubbhobel
   - Raubank
-- Metallerner Schlichthobel Größe Nr 4 (Dictum, Veritas, Lie Nielsen, ...)
 - Einhandzwingen von Piher
 - Korpuszwingen von Piher
 - Shapton Whetstone 1500, 5000, 8000
