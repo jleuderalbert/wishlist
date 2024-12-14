@@ -10,6 +10,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Ich freue mich immer über interessanten Kaffee (Ganze Bohne, eigentlich "Espresso-Röstungen" aber die Unterscheidung wird mittlerweile hinterfragt und ich würde auch gerne mal eine hellere Röstung probieren ... generell auch lieber heller als dunkler)
   
 - Grober/Schwerer Strickpullover (Crew Neck, Rundhals oder Rolli) aus 100% Naturfaser, am liebsten Wolle, unifarben
+- Schicke Handschuhe in Grau, Schwarz oder Navy
 
 ## Küche
 
