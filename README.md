@@ -9,7 +9,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Gutscheine für Dictum, Spielkultur oder IKEA kann ich auch immer gebrauchen
 - Ich freue mich immer über interessanten Kaffee (Ganze Bohne, eigentlich "Espresso-Röstungen" aber die Unterscheidung wird mittlerweile hinterfragt und ich würde auch gerne mal eine hellere Röstung probieren ... generell auch lieber heller als dunkler)
   
-- lange (Sport-)Unterhosen (für unter der kurzen Hose)
+- Grober/Schwerer Strickpullover (Crew Neck, Rundhals oder Rolli) aus 100% Naturfaser, am liebsten Wolle, unifarben
 
 ## Küche
 
@@ -23,16 +23,14 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
 - Enter Shikari
   - Dear Future Historians
-  - A Teatise on Possibility
+  - A Treatise on Possibility
   - Standing Like Statues
 - The Complete Japanese Joinery
 
 ## Schallplatten
 
-- Unleash The Archers (Napalm Records Store)
-  - Apex - 5th Anniversary Earbook
-  - Abyss - Violette Doppelvinyl
-  - Time Stands Still - Orange Doppelvinyl
+- Unleash The Archers (Nur im Napalm Records Store)
+  - Apex
 - Red Hot Chilli Peppers
   - I'm With You
 - Heaven Shall Burn
@@ -45,11 +43,12 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Vengeance Falls
 - Rise Against
   - Long Forgotten Songs
-  - Nowhere Generation II
  
 ## Technikkram oder so
 
 - BluRay-Player oder (internes) -Laufwerk (gerne 4k UHD fähig)
+- Homematic IP Heizkörperthermostat Basic (1x)
+- Homematic Tür- und Fensterkontakt (4x)
 
 ## Werkzeug & Ähnliches
 
@@ -58,8 +57,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Hobellade von [Bau Woodworks](https://bau-woodworks.com/produkt/multifunktions-hobellade-mfh/)
 - Japansäge Kataba (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-kataba-250-laengs-712817?number=712817))
 - Japansäge Azebiki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/azebiki-saege-90-712247?number=712247))
-- Japanische Stemmeisen Oire Nomi Kashi in den Breiten 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323)
-- Satz gute Holzspiralbohrer (z.B. [Fisch](https://www.dictum.com/de/holzspiralbohrer-bakc/fisch-holzspiralbohrer-satz-eco-19-teilig-717818?number=717818))
+- Japanische Stemmeisen Oire Nomi Kashi in den Breiten 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323))
+- Japanisches Streichmaß (z.B. [dieses](https://www.dictum.com/de/streichmasse-baja/japanisches-streichmass-1-messer-keilklemmung-717100))
 - Westliche Holzhobel gerne auch alte, gebrauchte
   - Putzhobel
   - Schrubbhobel
