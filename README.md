@@ -6,22 +6,30 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Allgemeines
 
 - Geld kann man immer gebrauchen
-- Gutscheine für Dictum, Spielkultur oder IKEA kann ich auch immer gebrauchen
-- Ich freue mich immer über interessanten Kaffee (Ganze Bohne, eigentlich "Espresso-Röstungen" aber die Unterscheidung wird mittlerweile hinterfragt und ich würde auch gerne mal eine hellere Röstung probieren ... generell auch lieber heller als dunkler)
+- Gutscheine für Dictum, Spielkultur, Uniqlo oder IKEA kann ich auch immer gebrauchen
+- Ich freue mich immer über interessanten Kaffee (Ganze Bohne, für Espresso)
+
+## Kleidung
   
-- Grober/Schwerer Strickpullover (Crew Neck, Rundhals oder Rolli) aus 100% Naturfaser, am liebsten Wolle, unifarben
+- Classic/Light Merino Wool Crewneck von Colorful Standard in dunkler, gedeckter Farbe zb Navy, Dunkelgrün oder Anthrazit (Größe S)
+- Stutterheim Stockholm Lightweight Raincoat Green (vermutlich Größe M, evtl. auch S)
 - Schicke Handschuhe in Grau, Schwarz oder Navy
 
 ## Küche
 
+- ESGE Zauberstab P 350 Profi
 - Staub Cocotte, rund &#x2300; 26cm, schwarz
 - Demeyere Edelstahl Bratpfanne Multiline 7 / Industry 5, &#x2300; 24cm
 - Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 22 oder 24 cm
 
 ## Bücher
 
-- Terry Pratchett - Discworld Collectors Library ([Gibt's nur hier](https://www.discworldemporium.com/product-category/books/the-discworld-collector-s-library/) - UK Import)
-  - Bereits vorhanden sind Mort, Reaper Man, Hogfather, Going Postal und The Fifth Elefant
+- Terry Pratchett - englischsprachige Hardcoverversion (Discworld Collectors Library Edition) mittlerweile auch bei Thalia erhältlich
+  - [Guards! Guards!](https://www.thalia.de/shop/home/artikeldetails/A1032518290)
+  - [Men at Arms](https://www.thalia.de/shop/home/artikeldetails/A1032518364#serien-slider)
+  - [Feet of Clay](https://www.thalia.de/shop/home/artikeldetails/A1033032712)
+  - [Jingo](https://www.thalia.de/shop/home/artikeldetails/A1033032767)
+  - [Sourcery](https://www.thalia.de/shop/home/artikeldetails/A1032496887)
 - Enter Shikari
   - Dear Future Historians
   - A Treatise on Possibility
@@ -36,6 +44,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - I'm With You
 - Heaven Shall Burn
   - Veto
+  - Heimat
 - Enter Shikari
   - The Mindsweep
   - A Flash Flood of Colour
@@ -44,6 +53,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Vengeance Falls
 - Rise Against
   - Long Forgotten Songs
+  - Ricochet
  
 ## Technikkram oder so
 
@@ -53,20 +63,27 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Werkzeug & Ähnliches
 
-- Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
+- Wabeco Bohrständer BF1243 mit 3-Speichen-Drehkreuz Z-Achse ([Wabeco](https://www.wabeco-remscheid.de/catalog/product/view/id/2166/s/bohrstander-frasstander-bf1243-3sd/category/591/), [Amazon](https://www.amazon.de/WABECO-Bohrst%C3%A4nder-Fr%C3%A4sst%C3%A4nder-vertikal-horizontal/dp/B0BN49G1C3/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=36BVPUMYHB5S7&dib=eyJ2IjoiMSJ9.WTx3p1WLOuf6HoT4Pfyqkhq-BR1k40NS3KbYSCqQ1PQu6ou8DrDZTqDzEvlmjcLfk9Ep5pUUPlttKa7o13Lk1L-sp31ACPfulnUI-zeJbQPhsgtv1aIO1mzL7C8ooZE8O03m8pUXG2jKaCLenFiSVAvcstv_qh5d7hc9rIwF83zDrgX9pWKdvhkDU_xRFRjvHmuGdSF321zOCq0JBTrJieLERyfZv4ulDhA5LZPOn1A.B4Asxy3q5jLuaStDzLHqLWsKymnsXFagjlGtx_Cakp0&dib_tag=se&keywords=wabeco+bf1243+3sd&qid=1755372264&sprefix=wabeco+bf1243+3sd%2Caps%2C113&sr=8-3&ufe=app_do%3Aamzn1.fos.897f7637-cfe4-44bf-9f94-1525e7bc9c76))
+  - Bosch Professional Schlagbohrmaschine GSB 21-2 RCT ([Amazon](https://www.amazon.de/gp/product/B002L4104I/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B002L4104I&linkCode=as2&tag=5gerade-21&linkId=47b38787b618e314ebf2087ced248079&th=1))
 
 - Hobellade von [Bau Woodworks](https://bau-woodworks.com/produkt/multifunktions-hobellade-mfh/)
+
 - Japansäge Kataba (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/z-saw-kataba-250-laengs-712817?number=712817))
 - Japansäge Azebiki (z.B. [Z-Saw](https://www.dictum.com/de/japansaegen-baaa/azebiki-saege-90-712247?number=712247))
 - Japanische Stemmeisen Oire Nomi Kashi in den Breiten 18mm, 24mm ([Dictum](https://www.dictum.com/de/japanische-form-baba/oire-nomi-kashi-stemmeisen-blattbreite-12-mm-710323))
-- Japanisches Streichmaß (z.B. [dieses](https://www.dictum.com/de/streichmasse-baja/japanisches-streichmass-1-messer-keilklemmung-717100))
+
 - Westliche Holzhobel gerne auch alte, gebrauchte
   - Putzhobel
   - Schrubbhobel
   - Raubank
+  - Simshobel
+  - Nuthobel
+  - Falzhobel
+
 - Einhandzwingen von Piher
 - Korpuszwingen von Piher
-- Shapton Whetstone 1500, 5000, 8000
+
+- Eig eher Projekt als Werkzeug: Kumiko Kit von [Bau Woodworks](https://bau-woodworks.com/produkt-kategorie/kumiko-kits-de/)
 
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
 
