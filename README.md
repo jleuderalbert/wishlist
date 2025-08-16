@@ -35,8 +35,10 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
     <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1033032767">Jingo</a></li>
     <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1032496887">Sourcery</a></li>
 
-    <p style="margin-top: 10px">Cover sollten in folgendem Stil sein und ein wenig wie aus Stoff wirken</p>
-    <img src="terry_pratchett_example.webp" alt="cover" height="200">
+    <p style="margin-top: 10px">
+      Cover sollten in folgendem Stil sein und ein wenig wie aus Stoff wirken
+      <img src="terry_pratchett_example.webp" alt="cover" height="200">
+    </p>
   </ul>
     
   </details>
