@@ -9,7 +9,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Gutscheine für Dictum, Spielkultur, Uniqlo oder IKEA kann ich auch immer gebrauchen
 - Ich freue mich immer über interessanten Kaffee (Ganze Bohne, für Espresso)
 
-## Kleidung
+## Klamotten
   
 - Classic/Light Merino Wool Crewneck von Colorful Standard in dunkler, gedeckter Farbe zb Navy, Dunkelgrün oder Anthrazit (Größe S)
 - Stutterheim Stockholm Lightweight Raincoat Green (vermutlich Größe M, evtl. auch S)
@@ -28,6 +28,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   <details>
 
   <summary>Zum Beispiel folgende Bände</summary>
+  
   <ul>
     <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1032518290">Guards! Guards!</a></li>
     <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1032518364">Men at Arms</a></li>
