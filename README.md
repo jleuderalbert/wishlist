@@ -34,6 +34,10 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - [Feet of Clay](https://www.thalia.de/shop/home/artikeldetails/A1033032712)
   - [Jingo](https://www.thalia.de/shop/home/artikeldetails/A1033032767)
   - [Sourcery](https://www.thalia.de/shop/home/artikeldetails/A1032496887)
+
+    Cover sollten in folgendem Stil sein und ein wenig wie aus Stoff wirken
+
+    <img src="terry_pratchett_example.webp" alt="cover" height="200">
     
   </details>
 - Enter Shikari
