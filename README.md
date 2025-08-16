@@ -25,11 +25,17 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 ## Bücher
 
 - Terry Pratchett - englischsprachige Hardcoverversion (Discworld Collectors Library Edition) mittlerweile auch bei Thalia erhältlich
+  <details>
+
+  <summary>Zum Beispiel folgende Bände</summary>
+    
   - [Guards! Guards!](https://www.thalia.de/shop/home/artikeldetails/A1032518290)
   - [Men at Arms](https://www.thalia.de/shop/home/artikeldetails/A1032518364#serien-slider)
   - [Feet of Clay](https://www.thalia.de/shop/home/artikeldetails/A1033032712)
   - [Jingo](https://www.thalia.de/shop/home/artikeldetails/A1033032767)
   - [Sourcery](https://www.thalia.de/shop/home/artikeldetails/A1032496887)
+    
+  </details>
 - Enter Shikari
   - Dear Future Historians
   - A Treatise on Possibility
