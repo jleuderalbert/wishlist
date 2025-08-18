@@ -100,3 +100,5 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 - Bosch 18V Pro-Core Akku mit mindestens 5,5Ah
 
+- Bosch Führungsschiene mit Winkelanschlag FSN WAN ([Amazon](https://www.amazon.de/Bosch-Professional-Winkelanschlag-F%C3%BChrungsschiene-1600Z0000A/dp/B007258COC/ref=sr_1_11?crid=2BM3P44RO74DN&dib=eyJ2IjoiMSJ9.HZOp0Vzqj2bbHiDAbi50gLr7vYZm5pFWzxhazhFfl0lo6kbBfGizHblqgT8HFfvCp_zB5nuOzlzw22AOfnO0kkvx_qUnUCIe3qsFcsfRnM6C1fSY9_JCZur6yNA87ThBogiSDnO-27vmeJm0iVlqclKsODG6oBUPbaqygOEicRZfGpf5ISj4F0AF06ONY4ROGRJJ1w5nHyRk1B_z2d15BzV-zSITYoJBh4PcpqxpK_8.Anwr8P2ycl7dPmil8TYhwEZybZORHrfvo6wehIoth-Q&dib_tag=se&keywords=bosch%2Bf%C3%BChrungsschiene&qid=1755506119&s=diy&sprefix=bosch%2Bf%C3%BC%2Cdiy%2C125&sr=1-11&th=1))
+
