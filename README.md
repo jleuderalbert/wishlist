@@ -5,7 +5,8 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Allgemeines
 
-- Gutscheine für Dictum, Spielkultur, Uniqlo oder IKEA kann ich auch immer gebrauchen
+- Gutscheine für Dictum, Spielkultur, Uniqlo oder IKEA kann ich quasi immer gebrauchen
+- Ich freue mich auch über Spenden im meinem Namen, z.B. für die [Hansawerkstatt](https://b-side.ms/kultur/hansawerkstatt) aber auch für quasi jeden anderen guten Zweck
 
 ## Klamotten
   
