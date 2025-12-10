@@ -5,9 +5,7 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Allgemeines
 
-- Geld kann man immer gebrauchen
 - Gutscheine für Dictum, Spielkultur, Uniqlo oder IKEA kann ich auch immer gebrauchen
-- Ich freue mich immer über interessanten Kaffee (Ganze Bohne, für Espresso)
 
 ## Klamotten
   
