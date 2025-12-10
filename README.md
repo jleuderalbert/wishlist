@@ -11,30 +11,37 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 
 ## Klamotten
   
-- Classic/Light Merino Wool Crewneck von Colorful Standard in dunkler, gedeckter Farbe zb Navy, Dunkelgrün oder Anthrazit (Größe S)
-- Stutterheim Stockholm Lightweight Raincoat Green (vermutlich Größe M, evtl. auch S)
+- Classic/Light Merino Wool Crewneck von Colorful Standard in dunkler, gedeckter Farbe zb Navy, Dunkelgrün oder Anthrazit, alternativ auch Hellgrau oder Elfenbein (Größe S)
+- Charles Thyrwhitt Merino-Strickjacke mit Schalkragen, alle Farben außer dem Dunkelbraun (Größe M)
+- Stutterheim Stockholm Long Raincoat Green (vermutlich Größe M, evtl. auch S)
 - Schicke Handschuhe in Grau, Schwarz oder Navy
 
 ## Küche
 
-- ESGE Zauberstab P 350 Profi
 - Staub Cocotte, rund &#x2300; 26cm, schwarz
 - Demeyere Edelstahl Bratpfanne Multiline 7 / Industry 5, &#x2300; 24cm
 - Demeyere Apollo 7 Sauteuse, konisch, &#x2300; 22 oder 24 cm
+- Ikea Küchenteile
+  - Metod Korpus Unterschrank, weiß, 80x60x80
+  - Maxmiera Schublade, niedrig, weiß 80x60
+  - Utrusta Boden, weiß, 80x60
+  - 2x Utrusta Schanier 110°
+  - Metod Korpus Unterschrank, weiß, 40x60x80
+  - Maxmiera Schublade, niedrig, weiß 40x60
+  - Utrusta Boden, weiß, 40x60
+  - Utrusta Schanier 153°
 
 ## Bücher
 
-- Terry Pratchett - englischsprachige Hardcoverversion (Discworld Collectors Library Edition) mittlerweile auch bei Thalia erhältlich
+- Terry Pratchett - englischsprachige Hardcoverversion (Discworld Collectors Library Edition) mittlerweile auch bei Thalia und Amazon erhältlich
   <details>
 
   <summary>Zum Beispiel folgende Bände</summary>
   
   <ul>
-    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1032518290">Guards! Guards!</a></li>
-    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1032518364">Men at Arms</a></li>
-    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1033032712">Feet of Clay</a></li>
-    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1033032767">Jingo</a></li>
-    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1032496887">Sourcery</a></li>
+    <li><a href="https://amzn.eu/d/gZJXS3R">Thud!</a></li>
+    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1033432297">The Colour of Magic</a></li>
+    <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1033431886">The Light Fantastic</a></li>
 
     <p style="margin-top: 10px">
       Cover sollten in folgendem Stil sein und ein wenig wie aus Stoff wirken
@@ -46,7 +53,6 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
 - Enter Shikari
   - Dear Future Historians
   - A Treatise on Possibility
-  - Standing Like Statues
 - The Complete Japanese Joinery
 
 ## Schallplatten
@@ -68,16 +74,30 @@ Hier schreibt Janek alle seine (verrückten) Wünsche auf.
   - Long Forgotten Songs
   - Ricochet
  
-## Technikkram oder so
+## Filme (Blu-Ray)
 
-- BluRay-Player oder (internes) -Laufwerk (gerne 4k UHD fähig)
+- Herr der Ringe Collection Extended Cut
+- Dune Part 1 & 2
+- The Batman
+- Batman - Christopher Nolan Reihe
+- James Bond (insbesondere die Craig Reihe)
+- Mission Impossible Collection
+- Bourne Collection
+- Drive
+- Blade Runner & Blade Runner 2049
+- Mad Max: Fury Road
+ 
+## Wohnung
+
 - Homematic IP Heizkörperthermostat Basic (1x)
-- Homematic Tür- und Fensterkontakt (4x)
+- Homematic Tür- und Fensterkontakt (2x)
 
 ## Werkzeug & Ähnliches
 
 - Wabeco Bohrständer BF1243 mit 3-Speichen-Drehkreuz Z-Achse ([Wabeco](https://www.wabeco-remscheid.de/catalog/product/view/id/2166/s/bohrstander-frasstander-bf1243-3sd/category/591/), [Amazon](https://www.amazon.de/WABECO-Bohrst%C3%A4nder-Fr%C3%A4sst%C3%A4nder-vertikal-horizontal/dp/B0BN49G1C3/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=36BVPUMYHB5S7&dib=eyJ2IjoiMSJ9.WTx3p1WLOuf6HoT4Pfyqkhq-BR1k40NS3KbYSCqQ1PQu6ou8DrDZTqDzEvlmjcLfk9Ep5pUUPlttKa7o13Lk1L-sp31ACPfulnUI-zeJbQPhsgtv1aIO1mzL7C8ooZE8O03m8pUXG2jKaCLenFiSVAvcstv_qh5d7hc9rIwF83zDrgX9pWKdvhkDU_xRFRjvHmuGdSF321zOCq0JBTrJieLERyfZv4ulDhA5LZPOn1A.B4Asxy3q5jLuaStDzLHqLWsKymnsXFagjlGtx_Cakp0&dib_tag=se&keywords=wabeco+bf1243+3sd&qid=1755372264&sprefix=wabeco+bf1243+3sd%2Caps%2C113&sr=8-3&ufe=app_do%3Aamzn1.fos.897f7637-cfe4-44bf-9f94-1525e7bc9c76))
   - Bosch Professional Schlagbohrmaschine GSB 21-2 RCT ([Amazon](https://www.amazon.de/gp/product/B002L4104I/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B002L4104I&linkCode=as2&tag=5gerade-21&linkId=47b38787b618e314ebf2087ced248079&th=1))
+
+- Baustaubsauger Metabo ASA 30 H PC
 
 - Hobellade von [Bau Woodworks](https://bau-woodworks.com/produkt/multifunktions-hobellade-mfh/)
 
